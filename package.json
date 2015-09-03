@@ -1,0 +1,28 @@
+{
+  "name": "partal",
+  "version": "0.0.1",
+  "description": "Minimalistic partial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/partal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvhenten/partal.git"
+  },
+  "keywords": [
+    "partial",
+    "currry",
+    "apply",
+    "call"
+  ],
+  "author": "Matthijs van Henten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/partal/issues"
+  },
+  "homepage": "https://github.com/mvhenten/partal",
+  "dependencies": {
+    "sliced": "^1.0.1"
+  }
+}
